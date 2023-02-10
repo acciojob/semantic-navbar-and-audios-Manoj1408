@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+ul {
+	display:flex;
+	flex-direction: row;
+}
+li {
+	padding:20px;
+}
